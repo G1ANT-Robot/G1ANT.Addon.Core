@@ -29,6 +29,6 @@ In the following example an entry is added to a log file. By default, the log fi
 ```G1ANT
 program notepad
 log.addmessage ‴Notepad process started‴
-keyboard ‴This is just for test‴
+keyboard ‴This is just for a test‴
 ```
 
