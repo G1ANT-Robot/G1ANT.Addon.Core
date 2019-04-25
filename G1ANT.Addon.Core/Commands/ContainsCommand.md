@@ -25,11 +25,11 @@ For more information about `errorcall`, `errorjump`, `errormessage` and `errorre
 
 ## Example
 
-In this simple example a dictionary entry is created containing `username:g1ant` key-value pair, then the robot checks whether this dictionary contains a key named `username`. Since it does, a dialog box displays *true* as the `contains` command result:
+In this simple example two dictionary entries are created containing `username:g1ant` and `password:mypass123` key-value pairs, then the robot checks whether this dictionary contains a key named `password`. Since it does, a dialog box displays *true* as the `contains` command result:
 
 ```G1ANT
-♥dictionary = ⟦dictionary⟧username❚g1ant
-contains ♥dictionary key username
+♥dictionary = ⟦dictionary⟧username❚g1ant❚password❚mypass123
+contains ♥dictionary key password
 dialog ♥result
 ```
 
