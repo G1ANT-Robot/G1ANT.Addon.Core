@@ -8,7 +8,7 @@ jump label ⟦label⟧
 
 ## Description
 
-The `jump` execution flow control command moves the robot to a defined label in a script, where the process is continued until its end. Please note that all lines between the line from which the jump was performed and the labeled line will be skipped (if the jump is “forward” in a script) or repeated (if the jump is “back” in a script). If you want to execute some code — a repetitive set of commands, for example — and then return to the previous point in a script to continue the process, use procedures and the  [`call`](CallCommand.md) commands.
+The `jump` execution flow control command moves the robot to a defined label in a script, where the process is continued until its end. Please note that all lines between the line from which the jump was performed and the labeled line will be skipped (if the jump is “forward” in a script) or repeated (if the jump is “back” in a script). If you want to execute some code — a repetitive set of commands, for example — and then return to the previous point in a script to continue the process, use procedures and the  [`call`](https://manual.g1ant.com/link/G1ANT.Addon.Core-1/G1ANT.Addon.Core/Commands/CallCommand.md) commands.
 
 | Argument | Type | Required | Default Value | Description |
 | -------- | ---- | -------- | ------------- | ----------- |

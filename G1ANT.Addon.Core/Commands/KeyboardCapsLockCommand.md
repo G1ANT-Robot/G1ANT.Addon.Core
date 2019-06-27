@@ -10,7 +10,7 @@ keyboard.capslock state ⟦text⟧
 
 This command switches the **CapsLock** key on or off. You can also use the [`♥capslock`](https://manual.g1ant.com/link/G1ANT.Addon.Core/Variables/CapsLockVariable.md) special variable to achieve the same results.
 
-> **Note:** The text input executed with the [`keyboard`](KeyboardCommand.md) command will only be affected with this setting if keystrokes are used (individual keys specified within the `⋘⋙` [key code special characters](https://manual.g1ant.com/link/G1ANT.Manual/appendices/special-characters/key-code.md)), not text strings (text within the `‴‴` [text special characters](https://manual.g1ant.com/link/G1ANT.Manual/appendices/special-characters/text.md)) — see the example below.
+> **Note:** The text input executed with the [`keyboard`](https://manual.g1ant.com/link/G1ANT.Addon.Core-1/G1ANT.Addon.Core/Commands/KeyboardCommand.md) command will only be affected with this setting if keystrokes are used (individual keys specified within the `⋘⋙` [key code special characters](https://manual.g1ant.com/link/G1ANT.Manual/appendices/special-characters/key-code.md)), not text strings (text within the `‴‴` [text special characters](https://manual.g1ant.com/link/G1ANT.Manual/appendices/special-characters/text.md)) — see the example below.
 
 | Argument | Type | Required | Default Value | Description |
 | -------- | ---- | -------- | ------------- | ----------- |

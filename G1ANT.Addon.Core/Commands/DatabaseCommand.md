@@ -8,7 +8,7 @@ database connection ⟦text⟧ type ⟦text⟧
 
 ## Description
 
-This command allows to establish a connection to an SQL database. If the command succeeds, all `sql` commands will be executed on the established database connection. See also [sql.query](SqlQueryCommand.md) command.
+This command allows to establish a connection to an SQL database. If the command succeeds, all `sql` commands will be executed on the established database connection. See also [sql.query](https://manual.g1ant.com/link/G1ANT.Addon.Core-1/G1ANT.Addon.Core/Commands/SqlQueryCommand.md) command.
 
 | Argument | Type | Required | Default Value | Description |
 | -------- | ---- | -------- | ------------- | ----------- |

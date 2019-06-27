@@ -26,7 +26,7 @@ For more information about `if`, `timeout`, `errorcall`, `errorjump`, `errormess
 
 ## Example
 
-This is a modified example from the [`mouse.click`](MouseClickCommand.md) command to make a rectangular selection on the Windows Desktop. With a mouse cursor set at the starting position, the left mouse button is clicked and hold. Then the cursor is moved to an intermediate position, and the `wait` argument slows down the movement so that you can see the effects. When this intermediate position is reached, the second `mouse.click` command moves the cursor farther to the destination point and the left mouse button is released.
+This is a modified example from the [`mouse.click`](https://manual.g1ant.com/link/G1ANT.Addon.Core-1/G1ANT.Addon.Core/Commands/MouseClickCommand.md) command to make a rectangular selection on the Windows Desktop. With a mouse cursor set at the starting position, the left mouse button is clicked and hold. Then the cursor is moved to an intermediate position, and the `wait` argument slows down the movement so that you can see the effects. When this intermediate position is reached, the second `mouse.click` command moves the cursor farther to the destination point and the left mouse button is released.
 
 ```G1ANT
 keyboard ⋘WIN+D⋙

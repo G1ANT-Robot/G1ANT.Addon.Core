@@ -8,7 +8,7 @@ sql query ⟦text⟧
 
 ## Description
 
-This command executes an SQL query while user is connected to their database. Please use the [`database`](DatabaseCommand.md) command first to establish a connection to a database. The query results are returned as a list of dictionaries, from which you can fetch individual records.
+This command executes an SQL query while user is connected to their database. Please use the [`database`](https://manual.g1ant.com/link/G1ANT.Addon.Core-1/G1ANT.Addon.Core/Commands/DatabaseCommand.md) command first to establish a connection to a database. The query results are returned as a list of dictionaries, from which you can fetch individual records.
 
 | Argument | Type | Required | Default Value | Description |
 | -------- | ---- | -------- | ------------- | ----------- |
