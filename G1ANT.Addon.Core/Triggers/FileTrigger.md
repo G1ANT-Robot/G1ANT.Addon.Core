@@ -38,7 +38,7 @@ Arguments passed to the script for each file in the monitored folder:
 
 ## Example
 
-The script executed by the FileTrigger can make use of task arguments mentioned earlier. The following line included in the script will display the full path to a file, which triggered the script execution, along with the information on the type of change to this file:
+The script executed by the File Trigger can make use of task arguments mentioned earlier. The following line included in the script will display the full path to a file, which triggered the script execution, along with the information on the type of change to this file:
 
 ```G1ANT
 dialog ‴Triggering file ♥task⟦filepath⟧ was ♥task⟦changetype⟧‴
