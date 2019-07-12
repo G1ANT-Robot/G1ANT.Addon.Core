@@ -1,12 +1,12 @@
-# Schedule Trigger
+# ScheduleTrigger
 
-Schedule trigger launches tasks at some specified time.
+ScheduleTrigger executes tasks at a specified time.
 
 ## Initial Arguments
 
 | Trigger Argument | Required | Default value | Description |
 | -------- | ---- | -------- | ------------- |
-| `CrontabExpression` | yes |  | Time specified for the trigger to be called at (for more information about setting this crontab argument, please visit [Crontab](https://crontab.guru/) website) |
+| `CrontabExpression` | yes |  | Time specified for the trigger to be called at. For more information about setting this crontab argument, please visit [Crontab](https://crontab.guru/) website. |
 
 ## Task Arguments
 
@@ -14,10 +14,14 @@ Schedule trigger launches tasks at some specified time.
 | -------- | ---- |
 | `Time` | Amount of time it took the trigger to perform the action |
 
-## Example of Defining a Schedule Trigger in Settings
+## Example of Defining a ScheduleTrigger in Settings
+
+![ScheduleTrigger in Settings](https://manual.g1ant.com/link/G1ANT.Manual/-assets/scheduletriggerexample.png)
+
+## Example of Defining a ScheduleTrigger in the Config File
 
 ```G1ANT
-<Trigger Class="ScheduleTrigger" Name="test" TaskName="C:\Users\a\Documents\G1ANT.Robot\test.robot">
+<Trigger Class="ScheduleTrigger" Name="test" TaskName="C:\Users\Robot\Documents\G1ANT.Robot\test.robot">
 	<Arguments>
 		<Argument Key="CrontabExpression">5 4 * * *</Argument>
 	</Arguments>
