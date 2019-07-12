@@ -14,7 +14,7 @@ Schedule Trigger executes tasks at a specified time.
 | -------- | ---- |
 | `Time` | Amount of time it took the trigger to perform the action |
 
-## Example of Defining a ScheduleTrigger in Settings
+## Example of Defining a Schedule Trigger in Settings
 
 ![ScheduleTrigger in Settings](https://manual.g1ant.com/link/G1ANT.Manual/-assets/scheduletriggerexample.png)
 
