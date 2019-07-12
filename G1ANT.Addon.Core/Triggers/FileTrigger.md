@@ -26,7 +26,7 @@ Arguments passed to the script for each file in the monitored folder:
 
 ![FileTrigger Example](https://manual.g1ant.com/link/G1ANT.Manual/-assets/filetriggerexample.png)
 
-## Example of Defining a FileTrigger in the Config File
+## Example of Defining a File Trigger in the Config File
 
 ```G1ANT
 <Trigger Class="FileTrigger" Name="test" TaskName="C:\Users\Robot\Documents\G1ANT.Robot\test.robot">
