@@ -1,6 +1,6 @@
 # Mail Trigger
 
-MailTrigger provides information about incoming emails.
+Mail Trigger provides information about incoming emails.
 
 ## Initial Arguments
 
