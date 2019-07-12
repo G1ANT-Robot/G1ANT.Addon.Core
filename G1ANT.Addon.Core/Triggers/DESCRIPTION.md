@@ -16,7 +16,7 @@ These are the arguments needed for a trigger to be called before running the scr
 8. Click the field next to the `Value` entry and type the key value.
 9. Repeat steps 6-8 to add more arguments.
 
-Another way of defining a trigger is to paste some XML code between `<Triggers>` … `</Triggers>` tags in G1ANT.Robot.config file (it’s location is provided in the *File name:* drop down list at the top of Settings window). Here’s a sample code:
+Another way of defining a trigger is to paste some XML code between `<Triggers>` … `</Triggers>` tags in G1ANT.Robot.config file (its location is provided in the *File name:* drop down list at the top of Settings window). Here’s a sample code:
 
 ```G1ANT
 <Trigger Class="FileTrigger" Name="test" TaskName="C:\Users\Robot\Documents\G1ANT.Robot\test.robot">
