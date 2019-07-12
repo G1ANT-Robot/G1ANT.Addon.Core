@@ -1,4 +1,4 @@
-# ScheduleTrigger
+# Schedule Trigger
 
 Schedule Trigger executes tasks at a specified time.
 
