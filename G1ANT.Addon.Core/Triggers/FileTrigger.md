@@ -22,7 +22,7 @@ Arguments passed to the script for each file in the monitored folder:
 | `ChangeType` | Information about the type of modification that was applied to a file (created, changed, deleted or renamed) |
 | `OldFilePath` | Path to the file that has been changed |
 
-## Example of Defining a FileTrigger in Settings
+## Example of Defining a File Trigger in Settings
 
 ![FileTrigger Example](https://manual.g1ant.com/link/G1ANT.Manual/-assets/filetriggerexample.png)
 
