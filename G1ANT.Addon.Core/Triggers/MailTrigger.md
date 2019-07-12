@@ -48,7 +48,7 @@ Arguments that are passed to the script on its execution for each incoming email
 
 ## Example
 
-The script executed by the MailTrigger can make use of task arguments mentioned earlier. The following line included in the script will display the title and the recipient’s name of an email, which triggered the script execution:
+The script executed by the Mail Trigger can make use of task arguments mentioned earlier. The following line included in the script will display the title and the recipient’s name of an email, which triggered the script execution:
 
 ```G1ANT
 dialog ‴Incoming email: ♥task⟦title⟧ to task⟦to⟧‴
