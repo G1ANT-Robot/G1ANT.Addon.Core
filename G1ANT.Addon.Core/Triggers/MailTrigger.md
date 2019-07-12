@@ -28,7 +28,7 @@ Arguments that are passed to the script on its execution for each incoming email
 | `Date` | Sent date |
 | `Priority` | Priority set by a sender |
 
-## Example of Defining a MailTrigger in Settings
+## Example of Defining a Mail Trigger in Settings
 
 ![MailTrigger in Settings](https://manual.g1ant.com/link/G1ANT.Manual/-assets/mailtriggerexample.png)
 
