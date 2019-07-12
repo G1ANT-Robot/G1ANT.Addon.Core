@@ -1,4 +1,4 @@
-# FileTrigger
+# File Trigger
 
 FileTrigger monitors files in a specified folder and provides information whether they were changed, deleted, renamed or there are some new created files.
 
