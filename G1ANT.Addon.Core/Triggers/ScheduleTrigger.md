@@ -18,7 +18,7 @@ Schedule Trigger executes tasks at a specified time.
 
 ![ScheduleTrigger in Settings](https://manual.g1ant.com/link/G1ANT.Manual/-assets/scheduletriggerexample.png)
 
-## Example of Defining a ScheduleTrigger in the Config File
+## Example of Defining a Schedule Trigger in the Config File
 
 ```G1ANT
 <Trigger Class="ScheduleTrigger" Name="test" TaskName="C:\Users\Robot\Documents\G1ANT.Robot\test.robot">
