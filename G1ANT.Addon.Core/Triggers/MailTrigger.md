@@ -1,4 +1,4 @@
-# MailTrigger
+# Mail Trigger
 
 MailTrigger provides information about incoming emails.
 
