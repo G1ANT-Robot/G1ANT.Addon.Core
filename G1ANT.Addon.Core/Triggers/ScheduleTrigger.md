@@ -1,6 +1,6 @@
 # ScheduleTrigger
 
-ScheduleTrigger executes tasks at a specified time.
+Schedule Trigger executes tasks at a specified time.
 
 ## Initial Arguments
 
