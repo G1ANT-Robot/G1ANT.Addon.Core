@@ -1,6 +1,6 @@
 # Triggering
 
-Triggers can execute user defined processes based on events. There are three triggers that can be used by G1ANT.Robot: [FileTrigger](FileTrigger.md), [MailTrigger](MailTrigger.md) and [ScheduleTrigger](ScheduleTrigger.md). Their names are self-explanatory, as they are activated on a specified file, mail or schedule event.
+Triggers can execute user defined processes based on events. There are three triggers that can be used by G1ANT.Robot: [File Trigger](FileTrigger.md), [Mail Trigger](MailTrigger.md) and [Schedule Trigger](ScheduleTrigger.md). Their names are self-explanatory, as they are activated on a specified file, mail or schedule event.
 
 ## Initial Arguments
 
