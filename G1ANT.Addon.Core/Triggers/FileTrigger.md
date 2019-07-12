@@ -1,6 +1,6 @@
 # File Trigger
 
-FileTrigger monitors files in a specified folder and provides information whether they were changed, deleted, renamed or there are some new created files.
+File Trigger monitors files in a specified folder and provides information whether they were changed, deleted, renamed or there are some new created files.
 
 ## Initial Arguments
 
